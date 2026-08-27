@@ -65,7 +65,7 @@ except Exception:
 
 st.set_page_config(
     page_title="Driver Drowsiness Detection | Fleet Safety Dashboard",
-    page_icon="🚗",
+    page_icon="Logo-PTS.png",
     layout="wide",
     initial_sidebar_state="expanded",
 )
