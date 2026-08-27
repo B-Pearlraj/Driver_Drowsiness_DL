@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Eye Custom CNN,87.61,85.34,90.83,88.0
+Eye MobileNetV2,99.08,99.08,99.08,99.08
+Mouth Custom CNN,59.17,55.95,86.24,67.87
+Mouth MobileNetV2,72.94,84.72,55.96,67.4

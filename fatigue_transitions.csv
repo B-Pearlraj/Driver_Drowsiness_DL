@@ -1,0 +1,8 @@
+Minute,From,To
+12,Severe Fatigue,Mild Fatigue
+14,Mild Fatigue,Alert
+15,Alert,Mild Fatigue
+16,Mild Fatigue,Alert
+17,Alert,Mild Fatigue
+18,Mild Fatigue,Alert
+20,Alert,Mild Fatigue

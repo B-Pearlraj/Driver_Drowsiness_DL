@@ -1,0 +1,23 @@
+Time Interval,Average_Fatigue_Stage,Frames,Fatigue Level
+1,2.0,10,Severe Fatigue
+2,1.8,10,Severe Fatigue
+3,2.0,10,Severe Fatigue
+4,2.0,10,Severe Fatigue
+5,2.0,10,Severe Fatigue
+6,2.0,10,Severe Fatigue
+7,2.0,10,Severe Fatigue
+8,2.0,10,Severe Fatigue
+9,2.0,10,Severe Fatigue
+10,2.0,10,Severe Fatigue
+11,1.9,10,Severe Fatigue
+12,0.8,10,Mild Fatigue
+13,0.9,10,Mild Fatigue
+14,0.4,10,Alert
+15,0.9,10,Mild Fatigue
+16,0.2,10,Alert
+17,0.6,10,Mild Fatigue
+18,0.3,10,Alert
+19,0.2,10,Alert
+20,0.5,10,Mild Fatigue
+21,0.6,10,Mild Fatigue
+22,1.0,8,Mild Fatigue

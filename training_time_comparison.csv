@@ -1,0 +1,5 @@
+Model,Training Time (seconds)
+Eye Custom CNN,87.96990132331848
+Eye MobileNetV2,79.59298157691956
+Mouth Custom CNN,90.60277891159058
+Mouth MobileNetV2,114.9143934249878
