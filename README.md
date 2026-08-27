@@ -1,7 +1,7 @@
 # Driver Drowsiness Detection — Fleet Safety Dashboard
 
 A business-facing Streamlit dashboard built on top of
-`Drowsiness_DL_Corrected.ipynb`. It turns the notebook's model metrics and
+`Drowsiness_DL.ipynb`. It turns the notebook's model metrics and
 fatigue-fusion outputs into something a safety/operations stakeholder can
 read at a glance — no notebook or code required.
 
